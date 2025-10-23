@@ -44,4 +44,5 @@ Estoy abierta a aprender y colaborar. Si tienes alguna pregunta o quieres conect
 * **Estudiantil/Universidad:** [kmolina4147@uta.edu.ec]
 
 > **"El código es poesía, la ingeniería es el arte."** - ¡Gracias por visitar mi perfil!
-> <img width="865" height="1080" alt="research-cat-meme-4" src="https://github.com/user-attachments/assets/4807f378-bc2b-4a05-9b2f-c09a22e9173f" />
+
+![sonkxd](https://github.com/user-attachments/assets/28aae8f7-5d2b-45c9-abd7-8a205715fe6c)
