@@ -45,4 +45,4 @@ Estoy abierta a aprender y colaborar. Si tienes alguna pregunta o quieres conect
 
 > **"El código es poesía, la ingeniería es el arte."** - ¡Gracias por visitar mi perfil!
 
-![sonkxd](https://github.com/user-attachments/assets/28aae8f7-5d2b-45c9-abd7-8a205715fe6c)
+<img src="https://github.com/user-attachments/assets/28aae8f7-5d2b-45c9-abd7-8a205715fe6c" alt="sonkxd" width="500">
